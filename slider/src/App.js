@@ -14,7 +14,7 @@ class App extends Component {
         <div className={"wrapper"}>
             <SayFullName name={"Александр"} surname={"Завершнев"} link={"https://vk.com/id7494002"} />
             <SayFullName name={"Alexandr"} surname={"Zavershnev"} link={"https://vk.com/id7494002"} />
-            <SayFullName name={"Алек"} surname={"Завершнев"} link={"https://vk.com/id7494002"} />
+            <SayFullName name={"Лекс"} surname={"Завершнев"} link={"https://vk.com/id7494002"} />
             <CreateImage link={"img/broken-display-2222010_1920.png"} />
         </div>
     );
